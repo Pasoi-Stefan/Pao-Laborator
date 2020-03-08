@@ -1,11 +1,11 @@
 package lab2;
 
-public class Ex3_Dog {
+public class Dog {
     
     private boolean isHungry;
     private String foodGiven;
     
-    public Ex3_Dog(boolean isHungry, String foodGiven) {
+    public Dog(boolean isHungry, String foodGiven) {
         
         this.isHungry = isHungry;
         this.foodGiven = foodGiven;
