@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dog
+comment1.params=isHungry\ foodGiven
+comment1.target=Dog(boolean,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ getIfHungry()
+comment3.params=value
+comment3.target=void\ setIfHungry(boolean)
+comment4.params=
+comment4.target=java.lang.String\ getFoodGiven()
+comment5.params=value
+comment5.target=void\ setFoodGiven(java.lang.String)
+comment6.params=
+comment6.target=void\ status()
+numComments=7

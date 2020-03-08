@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=Nume\ Nota
+comment1.target=Student(java.lang.String,\ float)
+comment2.params=
+comment2.target=java.lang.String\ getNume()
+comment3.params=
+comment3.target=float\ getNota()
+numComments=4
