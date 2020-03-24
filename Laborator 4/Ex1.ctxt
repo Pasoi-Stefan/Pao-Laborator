@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ex1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str1\ str2
+comment2.target=boolean\ suntAnagrame(java.lang.StringBuilder,\ java.lang.StringBuilder)
+numComments=3
