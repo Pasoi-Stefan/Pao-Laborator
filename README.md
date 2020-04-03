@@ -2,4 +2,4 @@
 
 Laborator1-4 -> BlueJ
 
-Laborator5-  -> IntelliJ
+Laborator5-   -> IntelliJ
